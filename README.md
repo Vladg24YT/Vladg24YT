@@ -6,12 +6,12 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a 16
 [![Vladg24YT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladg24YT&layout=compact&langs_count=10&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What do I know?
-| Language | Version | Degree of knowledge |  
+| Language | Version | Degree of usage |  
 | :---: | :---: | :--- |  
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" height="75"/> | `SE 8` | Beginner |  
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png" alt="Lua" height="75"/> | `5.2`, `5.3` | Beginner |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="75"/> | `11` | Basic understanding |
-| <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="75"/>| `11` | Basic understanding |
+| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" height="75"/> | `SE 8` | Primary language |  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png" alt="Lua" height="75"/> | `5.2`, `5.3` | Secondary language |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="75"/> | `11` | Have a basic understanding, almost don't use |
+| <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="75"/>| `11` | Have a basic understanding, almost don't use |
 
 ## Links
 - [Project list](https://vladg24yt.github.io/README)
