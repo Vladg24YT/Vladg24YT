@@ -14,7 +14,7 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a 16
 | <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="75"/>| `11` | Have a basic understanding, almost don't use |
 
 ## Links
-- [Project list](https://vladg24yt.github.io/README)
+- [Project list](https://vladg24yt.github.io/)
 - [ВКонтакте](https://vk.com/vladg24yt)
 - [ВКонтакте (группа)](https://vk.com/ru_vtm_app)
 - [DeviantArt](https://www.deviantart.com/vladg24yt)
