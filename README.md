@@ -9,7 +9,7 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a 16
 | Language | Version | Degree of usage |  
 | :---: | :---: | :--- |  
 | Java | `SE 8` | Primary language |  
-| Lua | `5.2`, `5.3` | Secondary language, but struggling with GUI |
+| Lua | `5.3` | Secondary language, but struggling with GUI |
 | C++ | `11` | Basic, no GUI usage |
 | C | `11` | Basic, no GUI usage |
 | Python | `3` | Basic, no GUI usage |
