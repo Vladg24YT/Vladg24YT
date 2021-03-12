@@ -8,13 +8,13 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a 16
 ## What do I know?
 | Language | Version | Degree of usage |  
 | :---: | :---: | :--- |  
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" height="75"/> | `SE 8` | Primary language |  
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png" alt="Lua" height="75"/> | `5.2`, `5.3` | Secondary language |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="75"/> | `11` | Have a basic understanding, almost don't use |
-| <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="75"/>| `11` | Have a basic understanding, almost don't use |
+| Java | `SE 8` | Primary language |  
+| Lua | `5.2`, `5.3` | Secondary language, but struggling with GUI |
+| C++ | `11` | Basic, no GUI usage |
+| C | `11` | Basic, no GUI usage |
+| Python | `3` | Basic, no GUI usage |
 
 ## Links
-- [Project list](https://vladg24yt.github.io/)
 - [ВКонтакте](https://vk.com/vladg24yt)
 - [ВКонтакте (группа)](https://vk.com/ru_vtm_app)
 - [DeviantArt](https://www.deviantart.com/vladg24yt)
