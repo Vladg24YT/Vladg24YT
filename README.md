@@ -6,13 +6,13 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a 16
 ![Vladg24YT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladg24YT&layout=compact&langs_count=8&show_icons=true&theme=gruvbox)
 
 ## What do I know?
-| Language | Version | Degree of usage |  
-| :---: | :---: | :--- |  
-| Java | `SE 8` | Primary language |  
-| Lua | `5.3` | Secondary language, but struggling with GUI |
-| C++ | `11` | Basic, no GUI usage |
-| C | `11` | Basic, no GUI usage |
-| Python | `3` | Basic, no GUI usage |
+| Language | Version | 
+| :---: | :---: |  
+| Java | `SE 8` | 
+| Lua | `5.3` |
+| C++ | `11` |
+| C | `11` |
+| Python | `3` |
 
 ## Links
 - [ВКонтакте](https://vk.com/vladg24yt)
