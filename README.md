@@ -19,4 +19,5 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a 17
 - [ВКонтакте (группа)](https://vk.com/ru_vtm_app)
 - [DeviantArt](https://www.deviantart.com/vladg24yt)
 - [Steam](https://steamcommunity.com/id/vladg24yt)
+- [Twitter](https://twitter.com/VladTheMountain)
 - Discord Tag: `VladG24#7800`
