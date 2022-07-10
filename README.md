@@ -21,3 +21,4 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a 1
 - [Steam](https://steamcommunity.com/id/vladg24yt)
 - [Twitter (abandoned)](https://twitter.com/VladTheMountain)
 - Discord Tag: `VladG24#7800`
+- Discord server: [https://discord.gg/qzKFJZW6bZ](https://discord.gg/qzKFJZW6bZ)
