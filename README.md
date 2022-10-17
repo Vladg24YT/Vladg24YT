@@ -18,12 +18,12 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a 1
 | C++ | `11` |
 | C | `11` |
 | Python | `3` |
+| JavaScript | `currently learning` |
 
 ## Links
 - [ВКонтакте](https://vk.com/vladg24yt)
 - [ВКонтакте (группа)](https://vk.com/vladthemountain)
 - [DeviantArt (abandoned)](https://www.deviantart.com/vladg24yt)
 - [Steam](https://steamcommunity.com/id/vladg24yt)
-- [Twitter (abandoned)](https://twitter.com/VladTheMountain)
 - Discord Tag: `VladG24#7800`
 - Discord server: [https://discord.gg/qzKFJZW6bZ](https://discord.gg/qzKFJZW6bZ)
