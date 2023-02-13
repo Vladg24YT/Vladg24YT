@@ -11,14 +11,7 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm an 
 - [LilyBukkit](https://github.com/LilyBukkit)
 
 ## What do I know?
-| Language | Version | 
-| :---: | :---: |  
-| Java | `SE 8` | 
-| Lua | `5.3` |
-| C++ | `11` |
-| C | `11` |
-| Python | `3` |
-| JavaScript | `currently learning` |
+[My tech stack](https://stackshare.io/vladg24yt/my-stack)
 
 ## Links
 - [ВКонтакте](https://vk.com/vladg24yt)
