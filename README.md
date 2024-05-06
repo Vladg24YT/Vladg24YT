@@ -14,9 +14,5 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm an 
 [My tech stack](https://stackshare.io/vladg24yt/my-stack)
 
 ## Links
-- [ВКонтакте](https://vk.com/vladg24yt)
-- [ВКонтакте (группа)](https://vk.com/vladthemountain)
-- [DeviantArt (abandoned)](https://www.deviantart.com/vladg24yt)
-- [Steam](https://steamcommunity.com/id/vladg24yt)
+- [Steam](https://steamcommunity.com/id/vladthemountain)
 - Discord Tag: `@vladthemountain`
-- Discord server: [https://discord.gg/qzKFJZW6bZ](https://discord.gg/qzKFJZW6bZ)
