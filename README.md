@@ -15,4 +15,4 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm an 
 
 ## Links
 - [Steam](https://steamcommunity.com/id/vladthemountain)
-- Discord Tag: `@vladthemountain`
+- Matrix: `@vladthemountain:matrix.org`
