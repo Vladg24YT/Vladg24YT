@@ -15,4 +15,3 @@ Hi, I'm Vlad The Mountain or Vladg24YT. I'm an 16-year-old beginner coder in Jav
 
 ## Links
 - [Steam](https://steamcommunity.com/id/vladthemountain)
-- Matrix: `@vladthemountain:matrix.org`
